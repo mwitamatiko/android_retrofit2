@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">userUI</string>
+    <string name="IDInstruction">Capture or Select ID Both Back and Front</string>
+<!--    <string name="passportInstruction">Capture or Select Passport</string>-->
+</resources>
